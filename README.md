@@ -9,4 +9,13 @@ Tweepy the Twitter API library/wrapper is also required in order for this bot to
 
 Tweepy can be cloned or you can use pip to install it, and MusicBot has multiple dependencies for the discord library which can beinstalled using pip.
 
+## Getting up and running
+Most information required to get this bot up and running can be found on the provided GitHub repositories posted above. Currently there is no output to console for this bot, but just open up your console and type 
+
+`run TwitterToDiscordBot.py` 
+
+in order to start it and it will call to the Twitter API every 60 seconds or however long you input into 
+
+`await asyncio.sleep(60) # task runs every 60 seconds`
+
 ### More documentation/info to be made/added soon...
