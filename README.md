@@ -3,7 +3,7 @@ Tweet @ a Twitter bot application with a link to a YouTube or Soundcloud video/s
 
 ## Dependencies and Info
 
-This bot is HIGHLY dependent on a discord Music Bot found here https://github.com/SexualRhinoceros/MusicBot in order to manage playlists as well as playing the songs through discord.
+This bot is HIGHLY dependent on and runs side by side a discord Music Bot found here https://github.com/SexualRhinoceros/MusicBot in order to manage playlists as well as playing the songs through discord.
 
 Tweepy the Twitter API library/wrapper is also required in order for this bot to work found here https://github.com/tweepy/tweepy
 
