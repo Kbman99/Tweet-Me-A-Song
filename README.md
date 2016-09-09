@@ -29,6 +29,6 @@ The bot is currently only configured to get the most recent tweet, but at the mo
 
 `@TwitterBotHandle <YouTube/SoundCloud Link>`
 
-And that's it. The bot parses by spaces so ' ' though only the first, second and third space is parsed and then pics out the string in the middle of the first and second space. Unfortunately there is no error returned for invalid links or bad entries either in the console of the bot itself, you can manage that through Discord.
+And that's it. The bot parses by spaces so at any ' ' the tweet will be split, though only the first, second and third space is parsed and then picks out the string in the middle of the first and second space. Unfortunately there is no error returned for invalid links or bad entries either in the console of the bot itself, you can manage that through Discord.
 
 ### More documentation/info to be made/added soon...
